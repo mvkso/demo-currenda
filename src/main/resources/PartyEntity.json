@@ -1,0 +1,426 @@
+[
+  {
+    "caseId": 8,
+    "partyType": "PLAINTIFF",
+    "name": "Adrian Dillard",
+    "active": false,
+    "addresses": [
+      {
+        "id": 1,
+        "city": "Kraków",
+        "postalCode": "77-462",
+        "street": "Seigel Court"
+      }
+    ]
+  },
+  {
+    "caseId": 10,
+    "partyType": "PLAINTIFF",
+    "name": "Shelly Foley",
+    "active": false,
+    "addresses": [
+      {
+        "id": 2,
+        "city": "Kraków",
+        "postalCode": "71-823",
+        "street": "Kimball Street"
+      },
+      {
+        "id": 3,
+        "city": "Malbork",
+        "postalCode": "33-288",
+        "street": "Borinquen Pl"
+      },
+      {
+        "id": 4,
+        "city": "Sopot",
+        "postalCode": "85-407",
+        "street": "Lott Place"
+      }
+    ]
+  },
+  {
+    "caseId": 9,
+    "partyType": "DEFENDANT",
+    "name": "Phelps Whitley",
+    "active": false,
+    "addresses": [
+      {
+        "id": 5,
+        "city": "Kraków",
+        "postalCode": "95-911",
+        "street": "Grove Place"
+      }
+    ]
+  },
+  {
+    "caseId": 8,
+    "partyType": "PLAINTIFF",
+    "name": "Sophie Young",
+    "active": true,
+    "addresses": [
+      {
+        "id": 6,
+        "city": "Gdynia",
+        "postalCode": "88-434",
+        "street": "Conselyea Street"
+      },
+      {
+        "id": 7,
+        "city": "Gdynia",
+        "postalCode": "54-512",
+        "street": "Hudson Avenue"
+      },
+      {
+        "id": 8,
+        "city": "Malbork",
+        "postalCode": "89-683",
+        "street": "Lincoln Road"
+      }
+    ]
+  },
+  {
+    "caseId": 2,
+    "partyType": "DEFENDANT",
+    "name": "Caroline Brock",
+    "active": true,
+    "addresses": [
+      {
+        "id": 9,
+        "city": "Sopot",
+        "postalCode": "31-838",
+        "street": "Cooke Court"
+      }
+    ]
+  },
+  {
+    "caseId": 2,
+    "partyType": "DEFENDANT",
+    "name": "Peck Gallegos",
+    "active": true,
+    "addresses": [
+      {
+        "id": 10,
+        "city": "Malbork",
+        "postalCode": "58-382",
+        "street": "Butler Street"
+      },
+      {
+        "id": 11,
+        "city": "Sopot",
+        "postalCode": "75-669",
+        "street": "Foster Avenue"
+      },
+      {
+        "id": 12,
+        "city": "Gdańsk",
+        "postalCode": "97-132",
+        "street": "Keen Court"
+      }
+    ]
+  },
+  {
+    "caseId": 10,
+    "partyType": "PLAINTIFF",
+    "name": "Mildred Blankenship",
+    "active": false,
+    "addresses": [
+      {
+        "id": 13,
+        "city": "Sopot",
+        "postalCode": "59-527",
+        "street": "Jerome Avenue"
+      },
+      {
+        "id": 14,
+        "city": "Gdynia",
+        "postalCode": "43-967",
+        "street": "Beekman Place"
+      },
+      {
+        "id": 15,
+        "city": "Sopot",
+        "postalCode": "54-856",
+        "street": "Post Court"
+      }
+    ]
+  },
+  {
+    "caseId": 10,
+    "partyType": "PLAINTIFF",
+    "name": "Nola Roberson",
+    "active": false,
+    "addresses": [
+      {
+        "id": 16,
+        "city": "Gdynia",
+        "postalCode": "26-611",
+        "street": "Debevoise Street"
+      },
+      {
+        "id": 17,
+        "city": "Gdańsk",
+        "postalCode": "93-675",
+        "street": "Matthews Place"
+      }
+    ]
+  },
+  {
+    "caseId": 2,
+    "partyType": "DEFENDANT",
+    "name": "Russell Klein",
+    "active": true,
+    "addresses": [
+      {
+        "id": 18,
+        "city": "Gdynia",
+        "postalCode": "13-718",
+        "street": "Hall Street"
+      }
+    ]
+  },
+  {
+    "caseId": 6,
+    "partyType": "PLAINTIFF",
+    "name": "Amalia Osborn",
+    "active": false,
+    "addresses": [
+      {
+        "id": 19,
+        "city": "Kwidzyn",
+        "postalCode": "99-830",
+        "street": "Montana Place"
+      },
+      {
+        "id": 20,
+        "city": "Gdynia",
+        "postalCode": "66-881",
+        "street": "Bethel Loop"
+      },
+      {
+        "id": 21,
+        "city": "Kwidzyn",
+        "postalCode": "16-368",
+        "street": "Branton Street"
+      }
+    ]
+  },
+  {
+    "caseId": 3,
+    "partyType": "PLAINTIFF",
+    "name": "Lynn Leonard",
+    "active": true,
+    "addresses": [
+      {
+        "id": 22,
+        "city": "Kwidzyn",
+        "postalCode": "74-441",
+        "street": "Vernon Avenue"
+      },
+      {
+        "id": 23,
+        "city": "Malbork",
+        "postalCode": "99-544",
+        "street": "Franklin Street"
+      }
+    ]
+  },
+  {
+    "caseId": 2,
+    "partyType": "DEFENDANT",
+    "name": "Marsh Bush",
+    "active": false,
+    "addresses": [
+      {
+        "id": 24,
+        "city": "Gdynia",
+        "postalCode": "19-920",
+        "street": "Bragg Court"
+      }
+    ]
+  },
+  {
+    "caseId": 1,
+    "partyType": "PLAINTIFF",
+    "name": "Natalia Sellers",
+    "active": false,
+    "addresses": [
+      {
+        "id": 25,
+        "city": "Kraków",
+        "postalCode": "48-406",
+        "street": "Heath Place"
+      },
+      {
+        "id": 26,
+        "city": "Kwidzyn",
+        "postalCode": "99-399",
+        "street": "Arlington Place"
+      },
+      {
+        "id": 27,
+        "city": "Malbork",
+        "postalCode": "58-249",
+        "street": "Barlow Drive"
+      }
+    ]
+  },
+  {
+    "caseId": 8,
+    "partyType": "PLAINTIFF",
+    "name": "Lauren Joyner",
+    "active": false,
+    "addresses": [
+      {
+        "id": 28,
+        "city": "Gdynia",
+        "postalCode": "48-495",
+        "street": "Stockton Street"
+      },
+      {
+        "id": 29,
+        "city": "Sopot",
+        "postalCode": "30-203",
+        "street": "Lois Avenue"
+      },
+      {
+        "id": 30,
+        "city": "Malbork",
+        "postalCode": "19-794",
+        "street": "Hunts Lane"
+      }
+    ]
+  },
+  {
+    "caseId": 6,
+    "partyType": "PLAINTIFF",
+    "name": "Cline Finch",
+    "active": false,
+    "addresses": [
+      {
+        "id": 31,
+        "city": "Kraków",
+        "postalCode": "87-844",
+        "street": "Seaview Avenue"
+      },
+      {
+        "id": 32,
+        "city": "Gdańsk",
+        "postalCode": "48-453",
+        "street": "Essex Street"
+      },
+      {
+        "id": 33,
+        "city": "Gdynia",
+        "postalCode": "68-405",
+        "street": "Bergen Avenue"
+      }
+    ]
+  },
+  {
+    "caseId": 9,
+    "partyType": "PLAINTIFF",
+    "name": "Hattie Workman",
+    "active": true,
+    "addresses": [
+      {
+        "id": 34,
+        "city": "Kraków",
+        "postalCode": "50-927",
+        "street": "Fay Court"
+      },
+      {
+        "id": 35,
+        "city": "Kraków",
+        "postalCode": "25-167",
+        "street": "Etna Street"
+      },
+      {
+        "id": 36,
+        "city": "Sopot",
+        "postalCode": "26-583",
+        "street": "Adelphi Street"
+      }
+    ]
+  },
+  {
+    "caseId": 4,
+    "partyType": "DEFENDANT",
+    "name": "Schwartz Hardy",
+    "active": false,
+    "addresses": [
+      {
+        "id": 37,
+        "city": "Gdynia",
+        "postalCode": "75-111",
+        "street": "Stillwell Place"
+      },
+      {
+        "id": 38,
+        "city": "Gdańsk",
+        "postalCode": "14-111",
+        "street": "Chapel Street"
+      }
+    ]
+  },
+  {
+    "caseId": 5,
+    "partyType": "DEFENDANT",
+    "name": "Sonja Kirby",
+    "active": false,
+    "addresses": [
+      {
+        "id": 39,
+        "city": "Kraków",
+        "postalCode": "10-683",
+        "street": "Whitwell Place"
+      }
+    ]
+  },
+  {
+    "caseId": 2,
+    "partyType": "DEFENDANT",
+    "name": "Estrada Hanson",
+    "active": false,
+    "addresses": [
+      {
+        "id": 40,
+        "city": "Gdynia",
+        "postalCode": "45-613",
+        "street": "Sumpter Street"
+      },
+      {
+        "id": 41,
+        "city": "Gdynia",
+        "postalCode": "87-702",
+        "street": "Sands Street"
+      },
+      {
+        "id": 42,
+        "city": "Malbork",
+        "postalCode": "74-826",
+        "street": "Malta Street"
+      }
+    ]
+  },
+  {
+    "caseId": 8,
+    "partyType": "PLAINTIFF",
+    "name": "Rojas Hurst",
+    "active": false,
+    "addresses": [
+      {
+        "id": 43,
+        "city": "Sopot",
+        "postalCode": "21-216",
+        "street": "Linwood Street"
+      },
+      {
+        "id": 44,
+        "city": "Kwidzyn",
+        "postalCode": "17-623",
+        "street": "Bouck Court"
+      }
+    ]
+  }
+]
